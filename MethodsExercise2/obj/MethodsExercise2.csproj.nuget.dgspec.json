@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\britt\\reposTC\\MethodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj": {}
+    "C:\\Users\\britt\\reposTC\\mathOperators-methodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\britt\\reposTC\\MethodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj": {
+    "C:\\Users\\britt\\reposTC\\mathOperators-methodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\britt\\reposTC\\MethodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj",
+        "projectUniqueName": "C:\\Users\\britt\\reposTC\\mathOperators-methodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj",
         "projectName": "MethodsExercise2",
-        "projectPath": "C:\\Users\\britt\\reposTC\\MethodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj",
+        "projectPath": "C:\\Users\\britt\\reposTC\\mathOperators-methodsExercise2\\MethodsExercise2\\MethodsExercise2.csproj",
         "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\britt\\reposTC\\MethodsExercise2\\MethodsExercise2\\obj\\",
+        "outputPath": "C:\\Users\\britt\\reposTC\\mathOperators-methodsExercise2\\MethodsExercise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
